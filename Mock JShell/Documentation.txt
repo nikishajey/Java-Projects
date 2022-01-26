@@ -1,4 +1,0 @@
-Class name: Documentation
-
-Responsibilities:
-* Represents the command information to be displayed on the shell
