@@ -1,0 +1,7 @@
+Class name: File
+
+Responsibilities:
+* Stores data in various forms including strings
+
+Collaborators:
+* String

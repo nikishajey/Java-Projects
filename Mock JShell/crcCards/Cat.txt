@@ -1,0 +1,8 @@
+Class name: Cat
+Parent class: OutputCommand
+
+Responsibilities:
+* Retrieves and displays the contents of the file(s) in the shell
+
+Collaborators:
+* File

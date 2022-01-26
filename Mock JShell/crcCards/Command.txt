@@ -1,0 +1,10 @@
+Class name: Command
+Subclasses: Exit, Mkdir, Cd, Echo, OutputCommand, Pushd, Popd
+
+Responsibilities:
+* Instructs the shell to perform a certain task
+
+Collaborators:
+* JShell
+* Path
+* Documentation
