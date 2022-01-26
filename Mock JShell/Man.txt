@@ -1,8 +1,0 @@
-Class name: Man
-Parent class: OutputCommand
-
-Responsibilities:
-* Prints the documentation for the command
-
-Collaborators:
-*
