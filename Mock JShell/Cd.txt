@@ -1,5 +1,0 @@
-Class name: Cd
-Parent class: Command
-
-Responsibilities:
-* Changes the directory or path to the given directory or path
