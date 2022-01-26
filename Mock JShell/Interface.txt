@@ -1,4 +1,0 @@
-Class name: Interface
-
-Responsibilities:
-* Allows user to interact with the JShell
