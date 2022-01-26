@@ -1,0 +1,36 @@
+//Sprint 1 Backlog.  
+November 12 to November 18
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, the user should be able to retrieve a file from a URL and save it to the current working directory.
+b) As a user, the user should be able to copy files from one directory to another.
+c) As a user, the user should be able to move files from one directory to another.
+d) As a user, the user should be able to view the entire file system as a tree.
+
+
+Specific tasks to be accomplished:
+  *. Improve upon the design to implement the design patterns learned in class
+     and incorporate the new requirements into the project, and update CRC cards.
+ **. Create mock objects for testing individual classes and their functionality 
+ 	 in the program.
+a-1. (Get) Write base code for Get class
+b-1. (Cp) Write base code for Cp class
+c-1. (Mv) Write base code for Mv class
+d-1. (Tree) Write base code for Tree class
+
+
+These tasks are assigned as follows:
+
+User: Naomi Joy Sibal
+Task: *, **, a-1
+
+User: Tahasun Tarannum
+Task: *, **, b-1
+
+User: Maunica Toleti
+Task: *, **, c-1
+
+User: Nikisha Jeyakumar
+Task: *, **, d-1
+

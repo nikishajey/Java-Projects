@@ -1,0 +1,50 @@
+//Sprint 1 Backlog.  
+October 18 to October 23
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, the user should be able to enter commands in the shell.
+b) As a user, the user should be able to create directories.
+c) As a user, the user should be able to view the files and directories           
+   in the current directory.
+d) As a user, the user should be able to view the current working directory/path.
+e) As a user, the user should be able to go from one directory to another.
+f) As a user, the user should be able quit the program.
+
+Specific tasks to be accomplished:
+  *. Develop a design to follow to implement the code for the program and
+ 	 update the CRC cards
+a-1. (JShell) Begin coding the main structure of the mock file system (Shell)
+a-2. (JShell) Allow the shell keep prompting for user input
+a-3. (JShell) Get the proper command from the user input (i.e. removing extra white spaces)
+a-4. (Command) Write base code for command class
+b-1. (Directory) Write code to create a class to represent a directory
+b-2. (Path) Write base code for the Path class
+b-3. (MkDir) Write code for MkDir class (to allow user to make new directories) 
+c-1. (File) Write base code for the File class
+c-2. (Ls) Write base code for Ls class (to allow user to view files/directories in current directory) 
+d-1  (Pwd) Write base code for Pwd class (to allow user to view current working directory) 
+e-1. (Cd) Write base code for Cd class (to allow user to change working directory)
+f-1. (Exit) Allow user to exit the JShell program (stop prompting for input)
+
+These tasks are assigned as follows:
+
+User: Naomi Joy Sibal
+Task: *, a-1, b-2, e-1
+
+User: Tahasun Tarannum
+Task: *, c-2, d-1, b-1
+
+User: Maunica Toleti
+Task: *, a-3, b-3, a-4
+
+User: Nikisha Jeyakumar
+Task: *, a-2, c-1, f-1
+
+
+Changes Made:
+- Changed the following assignment of tasks: a-1 from Naomi to Maunica
+											 b-1 from Tahasum to Maunica
+											 a-3 from Maunica to Naomi
+											 a-4 from Maunica to Tahasun
+- Additional Task: Create Parser class - Maunica

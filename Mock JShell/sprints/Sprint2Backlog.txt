@@ -1,0 +1,80 @@
+//Sprint 2 Backlog.  
+October 24 to October 30
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, the user should be able to enter commands in the shell.
+b) As a user, the user should be able to create directories.
+c) As a user, the user should be able to view the files and directories           
+   in the current directory.
+d) As a user, the user should be able to view the current working directory/path.
+e) As a user, the user should be able to go from one directory to another.
+f) As a user, the user should be able quit the program.
+
+Specific tasks to be accomplished:
+  *. Develop a design to follow to implement the code for the program and
+ 	 update the CRC cards
+  **. Start testing the codes that were implemented last sprint, keep adding features
+  		on base codes.
+a-1. (JShell) Begin coding the main structure of the mock file system (Shell)
+a-2. (JShell) Allow the shell keep prompting for user input
+a-3. (JShell) Get the proper command from the user input (i.e. removing extra white spaces)
+c-2. (Ls) Write base code for Ls class (to allow user to view files/directories in current directory) 
+d-1  (Pwd) Write base code for Pwd class (to allow user to view current working directory)
+g-1  (Echo) Write base code for Echo class (to allow user to append a string to a file)
+h-1 (Echo) Write code for the Echo class (to allow a string to be overwritten in a file)
+i-1 (Echo) write 
+
+
+These tasks are assigned as follows:
+
+User: Naomi Joy Sibal
+Task: *, **,a-1, 
+
+User: Tahasun Tarannum
+Task: *, **, c-2, d-1
+
+User: Maunica Toleti
+Task: *, **, a-3
+
+User: Nikisha Jeyakumar
+Task: *, **, a-2
+
+
+Changes Made:
+Add task: b-1. (Mkdir) Work on the code for Mkdir class
+Assign task b-1 to: Maunica (carried over from Sprint 1)
+
+Add task: e-1. (Cd) Finish code for Cd class
+Add user story: g) As a user, the user should be able to save a directory in the directory stack.
+Add task g-1. (Directory Stack) Write base code for Directory Stack class
+Add task g-2. (Pushd) Write base code for Pushd class
+Add task g-3. (Popd) Write base code for Popd class
+
+Assign task c-1 to: Naomi (carried over from Sprint 1)A
+Assign task g-1 to: Naomi
+Assign task g-2 to: Naomi
+Assign task g-3 to: Naomi
+
+Remove user story f) - as it was completed in Sprint 1
+
+Add user story: h) As a user, the user should be able to append a string to a file.
+Add user story: i) AS a user, the user should be able to overwrite a string in a file
+Add user story: j) AS a user, the user should be able to print a string on the shell
+Add task: h-1. (Echo) Write base code for Echo Class
+Add task: i-1 (Echo) Write code for Echo class so that a string can be overwritten in file
+Add task: j-1 (Echo) Write code for Echo class so that user can be able to print a string on shell
+
+Assign task h-1 to: Nikisha
+Assign task i-1 to: Nikisha
+Assign task j-1 to: Tahasun
+
+Add user story: k) As a user, the user should be able to view the most recently used commands.
+Add user story: l) As a user, the user should be able to view the documentation of each command.
+Add task: k-1. (History) Write code for the History class
+Add task: k-2. (JShell) Write code to test History command
+Add task: l-1. (Man) Write code for the Man class
+Add task: l-2. (JShell) Write code to test Man command
+Add task: a-4. (Validator) Write code to test different user inputs like the directory names and numeric input for History command
+
+Assign tasks: k-1, k-2, l-1, l-2, a-4 to Maunica 

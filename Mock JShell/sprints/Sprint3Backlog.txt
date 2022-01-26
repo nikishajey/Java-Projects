@@ -1,0 +1,52 @@
+//Sprint 3 Backlog.
+October 31 to November 7
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, the user should be able to view the files and directories in the current directory.
+b) As a user, the user should be able to view the current working directory/path.
+c) As a user, the user should be able to append a string to a file.
+d) As a user, the user should be able to overwrite the string in a file.
+e) As a user, the user should be able to print a string on the shell.
+
+Specific tasks to be accomplished:
+  *. Develop a design to follow to implement the code for the program and
+ 	 update the CRC cards
+  **. Start testing the codes that were implemented last sprint, keep adding features
+  		on base codes.
+a-1. (Pwd) Write base code for Pwd class (to allow user to view current working directory).
+b-1. (Ls) Write base code for Ls class (to allow user to view files/directories in current directory).
+c-1. (Echo) Write base code for Echo class(to allow user to append string to a file).
+c-2. (Echo) Write base code for Echo class (to allow user to overwrite a string in a file).
+c-3. (Echo) Write base code for Echo class (so that user can print a string on the shell).
+
+
+
+These tasks are assigned as follows:
+
+User: Naomi Joy Sibal
+Task: *, **,a-1, c-3
+
+User: Tahasun Tarannum
+Task: *, **,b-1
+
+User: Maunica Toleti
+Task: *, **,c-1
+
+User: Nikisha Jeyakumar
+Task: *, **,c-2
+
+Changes Made:
+Assign task: c-1 to Nikisha
+
+
+Add user story: g) As a user, the user should be able to enter commands in the shell.   
+Add task: g-1 (UserInput) Completed UserInput class
+Add task: c-4 (Echo) Modify Echo class to make it more efficient
+Add task: c-5 (Echo) Make echo overwrite work for file in absolute or relative path
+Add task: c-6 (Echo) Make echo append work for file in absolute or relative path
+Assign task: b-1, c-4, c-5, c-6, g-1 to Naomi
+
+Add user story: f) As a user, the user should be able to view the contents of the file/s in the shell.
+Add task: f-1 (Cat)  Complete the cat command class
+Assign task: f-1 to Maunica 
