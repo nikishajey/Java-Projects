@@ -1,8 +1,0 @@
-Class name: History
-Parent class: OutputCommand
-
-Responsibilities:
-* Retrieve and print out recent commands
-
-Collaborators:
-* CommandLog
