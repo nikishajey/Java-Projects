@@ -1,7 +1,0 @@
-Class name: Directory
-
-Responsibilities:
-* Represents the location of the current working directory
-
-Collaborators:
-* File
