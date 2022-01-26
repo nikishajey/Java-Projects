@@ -1,0 +1,8 @@
+Class name: Ls
+Parent class: OutputCommand
+
+Responsibilities:
+* Prints the names of the files and directories in the directory/path
+
+Collaborators:
+* File

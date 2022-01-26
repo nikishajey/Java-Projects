@@ -1,0 +1,7 @@
+Class name: Tree
+Parent class (if any): None
+Subclasses (if any): None
+Responsibilities:
+* Represents a general n-array tree
+Collaborators:
+* None

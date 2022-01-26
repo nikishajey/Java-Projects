@@ -1,0 +1,7 @@
+Class name: ShellOutput
+
+Responsibilities:
+* Prints output information in the shell
+
+Collaborators:
+* Shell
