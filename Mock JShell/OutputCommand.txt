@@ -1,9 +1,0 @@
-Class name: OutputCommand
-Parent class: Command
-Subclasses: Ls, Cat, Pwd, Man, History
-
-Responsibilities:
-* Instructs the shell program to generate required output
-
-Collaborators:
-* ShellOutput
